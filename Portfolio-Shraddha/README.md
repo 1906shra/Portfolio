@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **jack-portfolio** locally, run this command on your git bash:
+To run **Shraddha-portfolio** locally, run this command on your git bash:
 
 Linux and macOS:
 
@@ -49,7 +49,7 @@ git clone https://github.com/codewithsadee/jack-portfolio.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Linkdin](https://www.linkedin.com/in/shraddha-tripathi-8017a4246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 ### License
 
