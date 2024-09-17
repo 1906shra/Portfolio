@@ -19,7 +19,7 @@
 <br />
 
 
-![Shraddha Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Shraddha Portfolio Desktop Demo](Screenshot 2024-09-18 000304.png"Desktop Demo")
 
 ### Prerequisites
 
